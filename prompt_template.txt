@@ -13,7 +13,7 @@ For example, possible risks such as promises, pricing, mistakes, NDAs, confident
 -Output Schema:
     - risk_detected: (What risk is detected?)
     - reason_for_risk: (Why is it a risk?)
-    - suggested_alternative_wording: (What improvements/alternative wording you suggest?) (List of suggestions)
+    - suggested_alternative_wording: (What improvements/alternative wording you suggest?) (List of Suggestions)
     - severity_rating: (Decision scoring based on the intesity of risk inferred) (0-10)
 
 USER_TASK:
