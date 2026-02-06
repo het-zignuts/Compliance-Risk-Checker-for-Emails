@@ -1,4 +1,7 @@
 def print_risk_desc(i, risk):
+    """
+    Function to print the details of risk detected.
+    """
     print(f'\n============================== {i}. {risk["risk_detected"]} ==================================================')
     print(f'Why is it a risk? : {risk["reason_for_risk"]}')
     print(f'Severity Rating (on a scale of 0 to 10): {risk["severity_rating"]}')
